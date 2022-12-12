@@ -1,7 +1,7 @@
 import {defineType} from 'sanity'
 
 export default defineType({
-  name: 'softSkills',
+  name: 'softSkill',
   title: 'Soft Skills',
   type: 'document',
   fields: [
